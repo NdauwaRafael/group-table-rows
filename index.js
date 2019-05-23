@@ -14,7 +14,7 @@ function showDetails() {
                 ${
                 i=== 0 ? `
                  <td style="padding: 10px" rowspan="${ detail.items.length }"  >
-                     ${detail.office}
+                     ${detail.category}
                 </td>
                 ` : ''
                 }

@@ -3,7 +3,7 @@
  */
 let data = [
     {
-        office: 'Inventory 1',
+        category: 'Inventory 1',
         items: [
             {
                 name: 'tea',
@@ -20,7 +20,7 @@ let data = [
         ]
     },
     {
-        office: 'Inventory 2',
+        category: 'Inventory 2',
         items: [
             {
                 name: 'tea',
@@ -29,7 +29,7 @@ let data = [
         ]
     },
     {
-        office: 'Inventory 3',
+        category: 'Inventory 3',
         items: [
             {
                 name: 'tea',
