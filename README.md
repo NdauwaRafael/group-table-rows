@@ -8,7 +8,7 @@ Group table rows according to a certain subcategory.
 The table above is the presented of the data below.
 
 ### Data
-`
+```javascript
 [
     {
         category: 'Inventory 1',
@@ -46,4 +46,4 @@ The table above is the presented of the data below.
         ]
     }
 ]
-`
+```
