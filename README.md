@@ -47,3 +47,8 @@ The table above is the presented of the data below.
     }
 ]
 ```
+To get the codes
+ - Clone the repo. `git clone https://github.com/NdauwaRafael/simple-ui.git`
+ - Open the code in editor
+ - Modify the code 
+ - Enjoy!
