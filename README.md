@@ -48,7 +48,7 @@ The table above is the presented of the data below.
 ]
 ```
 To get the codes
- - Clone the repo. `git clone https://github.com/NdauwaRafael/simple-ui.git`
+ - Clone the repo. `https://github.com/NdauwaRafael/group-table-rows.git`
  - Open the code in editor
  - Modify the code 
  - Enjoy!
